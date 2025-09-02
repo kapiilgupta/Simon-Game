@@ -47,7 +47,6 @@ function levelUp(){
     let randBtn = document.querySelector(`.${randCol}`);
 
     gameSeq.push(randCol);
-    console.log("Game sequence: ",gameSeq);
 
     gameFlash(randBtn);
 }
