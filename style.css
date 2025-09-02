@@ -1,6 +1,5 @@
 body{
     text-align: center;
-    border: 10px groove black;
     margin-left: 200px;
     margin-right: 200px;
 }
@@ -40,4 +39,5 @@ body{
 
 .userflash{
     background-color: black;
+
 }
